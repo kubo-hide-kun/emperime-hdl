@@ -1,10 +1,10 @@
 NET "SW1" LOC = "P34" ;
 NET "SW2" LOC = "P33" ;
-#NET "SW3" LOC = "P2" ;
-#NET "SW4" LOC = "P1" ;
-#NET "LED0" LOC = "P30" ;
-#NET "LED1" LOC = "P29" ;
-#NET "LED2" LOC = "P27" ;
+NET "SW3" LOC = "P2" ;
+NET "SW4" LOC = "P1" ;
+NET "LED0" LOC = "P30" ;
+NET "LED1" LOC = "P29" ;
+NET "LED2" LOC = "P27" ;
 NET "LED3" LOC = "P26" ;
 NET "LED4" LOC = "P24" ;
 NET "LED5" LOC = "P23" ;
